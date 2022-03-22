@@ -1,0 +1,15 @@
+C:\Users\Àlberto Barbòsa\source\repos\placeholder\placeholder\bin\Debug\net6.0\placeholder.exe
+C:\Users\Àlberto Barbòsa\source\repos\placeholder\placeholder\bin\Debug\net6.0\placeholder.deps.json
+C:\Users\Àlberto Barbòsa\source\repos\placeholder\placeholder\bin\Debug\net6.0\placeholder.runtimeconfig.json
+C:\Users\Àlberto Barbòsa\source\repos\placeholder\placeholder\bin\Debug\net6.0\placeholder.dll
+C:\Users\Àlberto Barbòsa\source\repos\placeholder\placeholder\bin\Debug\net6.0\ref\placeholder.dll
+C:\Users\Àlberto Barbòsa\source\repos\placeholder\placeholder\bin\Debug\net6.0\placeholder.pdb
+C:\Users\Àlberto Barbòsa\source\repos\placeholder\placeholder\obj\Debug\net6.0\placeholder.csproj.AssemblyReference.cache
+C:\Users\Àlberto Barbòsa\source\repos\placeholder\placeholder\obj\Debug\net6.0\placeholder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Àlberto Barbòsa\source\repos\placeholder\placeholder\obj\Debug\net6.0\placeholder.AssemblyInfoInputs.cache
+C:\Users\Àlberto Barbòsa\source\repos\placeholder\placeholder\obj\Debug\net6.0\placeholder.AssemblyInfo.cs
+C:\Users\Àlberto Barbòsa\source\repos\placeholder\placeholder\obj\Debug\net6.0\placeholder.csproj.CoreCompileInputs.cache
+C:\Users\Àlberto Barbòsa\source\repos\placeholder\placeholder\obj\Debug\net6.0\placeholder.dll
+C:\Users\Àlberto Barbòsa\source\repos\placeholder\placeholder\obj\Debug\net6.0\ref\placeholder.dll
+C:\Users\Àlberto Barbòsa\source\repos\placeholder\placeholder\obj\Debug\net6.0\placeholder.pdb
+C:\Users\Àlberto Barbòsa\source\repos\placeholder\placeholder\obj\Debug\net6.0\placeholder.genruntimeconfig.cache
